@@ -1,4 +1,4 @@
-# Dance-Info.github.io
+# Dance-Info
 ![](https://comps.canstockphoto.com/ballerina-silhouette-drawing_csp51883292.jpg)
 
 So dance, 
