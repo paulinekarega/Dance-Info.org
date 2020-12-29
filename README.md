@@ -1,5 +1,5 @@
 # Dance-Info.github.io
-<center>![](https://comps.canstockphoto.com/ballerina-silhouette-drawing_csp51883292.jpg)</center>
+![](https://comps.canstockphoto.com/ballerina-silhouette-drawing_csp51883292.jpg)
 
 So dance, 
 This blog has been in my head for months, okay let's say years, but it became one of those things you are always starting but never do. But situations haven't changed yet and something needs to be said and someone needs to say something. So why not me and why not now. And yes there are dance blogs, in Kenya and beyond, but bear with me, this one is different.
