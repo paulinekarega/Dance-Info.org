@@ -1,113 +1,27 @@
 # Dance-Info.github.io
-![](https://comps.canstockphoto.com/ballerina-silhouette-drawing_csp51883292.jpg)
+<center>![](https://comps.canstockphoto.com/ballerina-silhouette-drawing_csp51883292.jpg)</center>
 
-**Get all you dance information right here**
+So dance, 
+This blog has been in my head for months, okay let's say years, but it became one of those things you are always starting but never do. But situations haven't changed yet and something needs to be said and someone needs to say something. So why not me and why not now. And yes there are dance blogs, in Kenya and beyond, but bear with me, this one is different.
 
-**Kenyan Universities offering life sciences**
+Once again then.
 
-<table width=100%>
-<tr>
-<th>University</th>
-<th>Science Courses</th>
-<th>Science Club</th>
-</tr>
-<tr>
-<td>Daystar University</td>
-<td>https://www.daystar.ac.ke/academic-programmes.html</td>
-<td>Active</td>
-</tr>
-<tr>
-<td>Kenyatta University</td>
-<td>http://spas.ku.ac.ke/</td>
-<td>Active</td>
-</tr>
-<tr>
-<td>Jomo Kenyatta University of Agriculture and Technology</td>
-<td>http://www.jkuat.ac.ke/academic-colleges/</td>
-<td>Active</td>
-</tr>
-<tr>
-<td>University of Nairobi</td>
-<td>https://cbps.uonbi.ac.ke/index.php/cbps-programmes</td>
-<td>Active</td>
-</tr>
-<tr>
-<td>Pwani University</td>
-<td>https://www.pu.ac.ke/index.php/academics/courses-and-programmes/spas-programmes</td>
-<td>Active</td>
-</tr>
-</table>
+**So dance**,
 
+wikipedia definition is right <a href="https://en.wikipedia.org/wiki/Dance">here</a>. In laymans terms, people move around to music or no music, it looks really weird some times, but most times it is <a href="https://www.youtube.com/watch?v=0Vj54UEuxcQ">beautiful</a>, <a href="https://www.youtube.com/watch?v=oEIYHTlbeLA">magical</a> even. It has become a language that we use to say different things, like love, hate, anger, need, help, I am, we are, thank you, sorry, everything that can be put in words.It's a whole language on its own. And even more beautiful is how all cultures in Kenya, in Africa or the world have their own dances to keep their cultures alive. Alright so that covers the language and communication part. 
 
-**Useful learning links**
+**So dance in Kenya**,
 
-<a href="https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9">Simon Cockell's Bioinformatics-along playlist.</a>
+This is my part two. And the whole purpose of this blog. You ever visit bomas of Kenya when you were a kid or an adult, or watched the news when dignitaries at the airport when they come in and there are these guys dancing for them. Pretty dope. And they were in costume and all, pretty cool. Or were you in the drama festivals in high school, and did the traditional dances. Pretty amazing. Then we got a shot of the western world, and our dance changed. We adopted a bunch of what they did and for a while we even forgot our own and the guys at the bomas and the airport guys and primary and high school students were the ones preserved our own cultures. Again after a while, we started to remember ours and started incorporating our own into the modern. And then we started getting mad creative and coming up with our own. The <a href="https://www.youtube.com/watch?v=DqmIT3dVQyY">Odi</a>, Furi furi, sari sari (at this point I realized that these names though, hmmmm), <a href="https://www.youtube.com/watch?v=XYQvE9dg9ck">bazokizo</a>, <a href="https://www.youtube.com/watch?v=2x60QeR1kjg">witinesi</a> (High key Favooouuurrritttee), zigwembe, sukuma, vimbada, thitima, shoulder back, then see kina madtraxx's song get down for some classics. We made one about bed bugs, I suspect this came from Juja called kunguni, coz you know Juja and bedbugs (no hate). We are a creative bunch we Kenyans. 
 
-<a href="https://www.coursera.org/specializations/bioinformatics">Corsera Introduction to bioinformatics course</a>
+We have millions of youth in Kenya 35.7 (75.1%) million to be precise, and a good number of these guys love and live dance and art (couldn't find any statistics for this one, would be nice to have). But a quick or indepth tour of the internet for dancers in Kenya, I'm pretty millions is an accurate assumption. <a href="https://www.google.com/search?q=dance+studios+in+kenya&oq=dance+studios+in+kenya&aqs=chrome..69i57j69i60.6525j0j7&sourceid=chrome&ie=UTF-8">Dance_studios</a> are popping up in every county and small corners to allow young people express themselves through dance. Dance competitions in all TV stations are a thing now: Dance Afrique, Sakata Mashariki, KTN Family Dance Competition, Kenya Break-Dancing Battle.... an endless list. The very recent East Africa got talent show had thousands of dancers audition like these <a href="https://www.youtube.com/watch?v=3w9pgzLQuFM">guys</a> (high key favourite :-)).
 
-<a href="https://www.udemy.com/topic/bioinformatics/">Udemy bioinformatics courses</a>
+This art is a big thing in Kenya right now and it should get some more attention than it is getting. I think I have accomplished my first mission up here, to just like warm up, put out some crucal stats, important links of some amazing performances everyone should see. But in all seriousness, Dance is a cool art, it's an amazing gift and talent, a superb profession and one heck of a release. **So What about it then?** 
 
-**Useful coding tutorials**
+We explore, find out how to make the industry better for the young ones who want to do it forever, expose some toxicities that exist in the industry, see how to bring back our culture in it, merge the new and the old to see how cool that marriage is and give some major credit where it is due. This is the **goal**, my goal. 
 
-<a href="https://ourcodingclub.github.io/tutorials.html">Coding club</a> 
+Yours Sincerely,
 
+Me,
 
-**Practice your coding skills**
-
-<a href="http://rosalind.info/problems/locations/">Rosalind</a>
-
-<a href="https://www.kaggle.com/">Kaggle for learning and competitions.</a>
-
-<p> lookout for hackathons happening around the world here. </p>
-
-**Useful book download links**
-
-<a href="https://z-lib.org/">Z-lib.org</a>
-
-<a href="https://www.packtpub.com/">packtpub.com</a>
-
-**Research Institutions in Kenya**
-
-Check for updates here. Also check their websites for opportunities and let us know if we miss anything. 
-
-<h3>Public Research Institutions</h3>
-
-<ul>
-<li>KEMRI-Wellcome Trust Research Programme</li>
-<li>Kenya Agricultural and Livestock Research Organisation (KALRO)</li>
-<li>Kenya Forestry Research Institute (KEFRI)</li>
-<li>Kenya Industrial Research Institute (KIRDI)</li>
-<li>Kenya Medical Research Institute</li>
-<li>Kenya Veterinary Vaccines Production Institute</li>
-<li>Kenya Marine and Fisheries Research Institute</li>
-<li>National Crime Research Centre</li>
-<li>National Museums of Kenya</li>
-<li>Tegemeo Institute of Agricultural Policy and Development</li>
-<li>Tourism Research Institute</li>
-</ul>
-
-<h3>Private Research Institutions</h3>
-
-<ul>
-<li>Africa Institute for Capacity Development</li>
-</li>Academic Model Providing Access to Healthcare (AMPATH)</li>
-<li>HJF Medical Research International Inc</li>
-<li>International Cancer Institute</li>
-<li>International Livestock Research Institution (ILRI)</li>
-<li>The Research Care and Training Programme (RCTP) Family AIDS Care and Education Services (FACES)</li>
-<li>Regional Centre for Mapping of Resources for Development</li>
-<li>The International Centre of Insect Physiology and Ecology (ICIPE)</li>
-<li>The World Agroforestry Centre (ICRAF)</li>
-</ul>
-
-**Opportunities Alert**
-
-Look out for opportunities here.
-
-**Ask for Help here**
-
-Put up an issue or a pull request if you have a training request or need assistance with projects.
-
-**How you can contribute**
-
-Please read CONTRIBUTE.md.
+Human who loves information and tries to put it out there best she knows how.
